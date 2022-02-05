@@ -1,0 +1,6 @@
+python-telegram-bot==13.11
+tensorflow-cpu==2.5.0
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+python-dotenv==0.19.2
+numpy
