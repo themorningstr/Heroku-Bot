@@ -58,7 +58,7 @@ def main():
     updater.start_webhook(listen="0.0.0.0",
                       port=PORT,
                       url_path=TOKEN)
-    updater.bot.set_webhook("https://gentle-coast-64239.herokuapp.com/" + TOKEN)
+    updater.bot.set_webhook("https://infinite-river-75649.herokuapp.com/" + TOKEN)
     updater.idle()
 
 
